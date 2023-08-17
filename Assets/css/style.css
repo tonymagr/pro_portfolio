@@ -27,7 +27,7 @@ aside h2 {
 }
 
 a:link {
-    color: blue;
+    color: rgb(119, 119, 255);
 }
 
 a:visited {
