@@ -26,6 +26,14 @@ aside h2 {
     float: right;
 }
 
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: rgb(212, 42, 212);
+}
+
 .section-filler {
     /* display: block; */
     height: 30px;
@@ -74,7 +82,7 @@ aside h2 {
 }
 
 #profile-content-am {
-    flex: 1 1 300px;
+    flex: 1 1 25%;
     padding: 10px;
     color: #404652;
     height: 180px;
@@ -83,7 +91,7 @@ aside h2 {
 }
 
 #profile-content-w {
-    flex: 1 1 300px;
+    flex: 1 1 25%;
     padding: 10px;
     color: #404652;
     height: 220px;
@@ -92,42 +100,29 @@ aside h2 {
 }
 
 #bio {
-    display: flex;
-    flex-wrap: wrap;
-    flex-basis: 55%;
+    flex: 1 1 50%;
     padding: 5px 20px;
     color: #404652;
     height: 180px;
-    width: 100%;
-    font-size: 14px;
+    /* width: 100%; */
+    font-size: 15px;
 }
 
-/* .web-app-parent {  (original)
-    display: flex;
-    flex-wrap: wrap;
-    flex-basis: 25%;
+#contact-info {
+    flex: 1 1 75%;
     padding: 5px 20px;
-    height: 200px;
-    width: 100%;
-    font-size: 13px;
-    color: white;
-} */
-
-.web-app-parent {
     display: flex;
     flex-wrap: wrap;
+    color: #404652;
+    height: 180px;
+    /* width: 100%; */
+    font-size: 18px;
+    justify-content:space-around;
+    align-items: center;
 }
 
-/* .card {
-    flex: 1 0 200px;
-    padding: 10px;
-    text-align: center;
-    border-style: solid;
-    border-width: 1px;
-  } */
-
-  .web-app-item {
-    flex: 1 1 300px;
+.web-app-item {
+    flex: 1 1 25%;
     text-align: center;
     border-style: solid;
     border-width: 1px;
@@ -143,11 +138,14 @@ aside h2 {
     height: 190px;
 }
 
+.webapp-img:hover {
+    width: 285px;
+    height: 200px;
+  }
+
 #headshot {
-    display: flex;
-    flex-wrap: wrap;
-    flex-basis: 20%;
-    justify-content: center;
+    flex: 1 1 25%;
+    text-align: center;
     /* padding: 10px; */
 }
 
@@ -178,12 +176,3 @@ section p a {
     color: #404652;
     font-size:x-large;
 }
-
-/* section {
-    flex: 70%;
-} */
-
-/* h2, p {
-    display: inline-block;
-} */
-  
