@@ -1,29 +1,36 @@
-# Horiseon Web Accessibility
+# Project Portfolio - Tony Magrady
 
 ## README Author
-Tony Magrady - Berkeley Full-Stack Web Development Bootcamp student, August 10, 2023
+Tony Magrady - Berkeley Full-Stack Web Development Bootcamp student
+-- August 17, 2023
 
 ## Description
-As stated in the module 1 challenge assignment, the purpose of "Horiseon Web Accessibility" website, as I have named it, is:
-Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities can't access their website.
-Ref: https://courses.bootcampspot.com/courses/4001/assignments/59529
+This is my portfolio page, which will be added to as the course progresses.
+Link to page: https://tonymagr.github.io/pro_portfolio/
+
+This webpage "Project Portfolio" is a collection of my previous full-stack development work for prospective employers or customers to review and potentially make available employment or freelance opportunities. 
+HTML & CSS skills I learned while creating this website were:
+- flexbox
+- media queries
+- CSS variables
+- dry and inherited element attribute selection
 
 ## Website Image
-![The Horiseon Web Accessibility webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png) 
+![Image of my Project Portfolio webpage: ](./Assets/images/webpage-img.jpg)
 
 ## Challenges
-I was not familiar with the custom style sheet (CSS) notation for inherited attributes from parents and how those child elements must also be accounted for when refactoring code. My Berkeley Bootcamp tutor, Dennis Itua, showed me how this works, and moreover, guided me to areas in my code that require such refactoring.
+I was not familiar with the relationship between flexboxes and flex items, which I learned in class and in the assignment. The deployed code on the web did not use its styling the first time, which I found was a case-sensitivity issue in the link to the stylesheet. This was not an issue in unit testing using the Open in Window command.
 
 ## Installation
 N/A
 
 ## Usage
-Web page is currently informational, but the code is designed openly, such that SEO, Online Reputation, and Social Media Marketing tiles may navigate elsewhere in the same website or externally.
+Potential employers and customers can use this site to review my deployed portfolio of work samples.
+This is a primary resource for the employer or customer to assess my strengths and suitability for an open position or to contract for a freelance project.
 
 ## Credits
-Ref: https://courses.bootcampspot.com/courses/4001/assignments/59529
-Refactored by README Author
-Assisted by Berkeley Bootcamp-assigned tutor, Dennis Itua
+Sand dunes background from https://pixabay.com/images/search/free%20images/
+Web Application tiles from https://arasmotech.com/web_app.jsp/
 
 ## License
 MIT License
