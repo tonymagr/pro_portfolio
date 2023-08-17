@@ -1,14 +1,16 @@
 # Project Portfolio - Tony Magrady
 
 ## README Author
-Tony Magrady - Berkeley Full-Stack Web Development Bootcamp student
+Tony Magrady - Berkeley Full-Stack Web Development Bootcamp student <br>
 -- August 17, 2023
 
 ## Description
-This is my portfolio page, which will be added to as the course progresses.
+This is my portfolio page, which will be added to as the course progresses. <br>
 Link to page: https://tonymagr.github.io/pro_portfolio/
 
-This webpage "Project Portfolio" is a collection of my previous full-stack development work for prospective employers or customers to review and potentially make available employment or freelance opportunities. 
+This webpage "Project Portfolio" is a collection of my previous full-stack development work for <br>
+prospective employers or customers to review and potentially make available employment or freelance <br>
+opportunities. <br>
 HTML & CSS skills I learned while creating this website were:
 - flexbox
 - media queries
@@ -16,20 +18,24 @@ HTML & CSS skills I learned while creating this website were:
 - dry and inherited element attribute selection
 
 ## Website Image
-![Image of my Project Portfolio webpage: ](./Assets/images/webpage-img.jpg)
+![Website Image](./Assets/images/webpage-img.jpg)
 
 ## Challenges
-I was not familiar with the relationship between flexboxes and flex items, which I learned in class and in the assignment. The deployed code on the web did not use its styling the first time, which I found was a case-sensitivity issue in the link to the stylesheet. This was not an issue in unit testing using the Open in Window command.
+I was not familiar with the relationship between flexboxes and flex items, which I learned in class <br>
+and in the assignment. The deployed code on the web did not use its styling the first time, which I <br>
+found was a case-sensitivity issue in the link to the stylesheet. This was not an issue in unit testing <br>
+using the Open in Window command.
 
 ## Installation
 N/A
 
 ## Usage
-Potential employers and customers can use this site to review my deployed portfolio of work samples.
-This is a primary resource for the employer or customer to assess my strengths and suitability for an open position or to contract for a freelance project.
+Potential employers and customers can use this site to review my deployed portfolio of work samples. <br>
+This is a primary resource for the employer or customer to assess my strengths and suitability for an open <br>
+position or to contract for a freelance project.
 
 ## Credits
-Sand dunes background from https://pixabay.com/images/search/free%20images/
+Sand dunes background from https://pixabay.com/images/search/free%20images/ <br>
 Web Application tiles from https://arasmotech.com/web_app.jsp/
 
 ## License
