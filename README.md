@@ -10,7 +10,8 @@ Link to page: https://tonymagr.github.io/pro_portfolio/
 
 This webpage "Project Portfolio" is a collection of my previous full-stack development work for <br>
 prospective employers or customers to review and potentially make available employment or freelance <br>
-opportunities. <br>
+opportunities.
+
 HTML & CSS skills I learned while creating this website were:
 - flexbox
 - media queries
@@ -31,8 +32,8 @@ N/A
 
 ## Usage
 Potential employers and customers can use this site to review my deployed portfolio of work samples. <br>
-This is a primary resource for the employer or customer to assess my strengths and suitability for an open <br>
-position or to contract for a freelance project.
+This is a primary resource for the employer or customer to assess my strengths and suitability for an <br>
+open position or to contract for a freelance project.
 
 ## Credits
 Sand dunes background from https://pixabay.com/images/search/free%20images/ <br>
