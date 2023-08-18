@@ -188,7 +188,7 @@ a:visited {
     } */
 }
 
-@media screen and (max-width: 882px) {
+@media screen and (max-width: 950px) {
     #profile-content-am {
         flex: 1 1 50%;
     }
@@ -209,7 +209,7 @@ a:visited {
     }
 }
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 750px) {
     #bottom-right {
         bottom: 83%;
     }
